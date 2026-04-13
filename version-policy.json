@@ -1,7 +1,7 @@
 {
-    "latestVersion":  "1.0.4",
-    "minimumSupportedVersion":  "1.0.4",
-    "installerUrl":  "https://github.com/LolS1ZE/warp-music-updates/raw/main/WARP%20%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%20v.0.32.exe",
+    "latestVersion":  "1.0.5",
+    "minimumSupportedVersion":  "1.0.5",
+    "installerUrl":  "https://github.com/LolS1ZE/warp-music-updates/raw/main/WARP%20%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%20v.0.33.exe",
     "releaseNotesUrl":  "https://github.com/LolS1ZE/warp-music-updates",
     "manifestUrl":  "https://raw.githubusercontent.com/LolS1ZE/warp-music-updates/refs/heads/main/version-policy.json",
     "message":  "A new WARP Music version is available.",
