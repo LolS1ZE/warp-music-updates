@@ -1,0 +1,10 @@
+﻿{
+    "latestVersion":  "1.0.3",
+    "minimumSupportedVersion":  "1.0.3",
+    "installerUrl":  "PASTE_PUBLIC_INSTALLER_URL_HERE",
+    "releaseNotesUrl":  "PASTE_RELEASE_PAGE_URL_HERE",
+    "manifestUrl":  "PASTE_PUBLIC_MANIFEST_URL_HERE",
+    "message":  "A new WARP Music version is available.",
+    "forceUpdate":  false,
+    "requireAccountVersion":  ""
+}
